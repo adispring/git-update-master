@@ -1,0 +1,23 @@
+{
+  "name": "git-update-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "haha.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adispring/git-update-master.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adispring/git-update-master/issues"
+  },
+  "homepage": "https://github.com/adispring/git-update-master#readme",
+  "dependencies": {
+    "git-client-hook": "0.0.22"
+  }
+}
